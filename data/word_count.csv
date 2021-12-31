@@ -1,0 +1,63 @@
+,book_num,sub_book_num,chapter_num,book,sub_book,chapter,word_count
+0,1,1,1,The Fellowship of the Ring,* BOOK I *,Chapter 1 . A Long-expected Party ,9869
+1,1,1,2,The Fellowship of the Ring,* BOOK I *,Chapter 2 . The Shadow of the Past ,11182
+2,1,1,3,The Fellowship of the Ring,* BOOK I *,Chapter 3 . Three is Company ,9647
+3,1,1,4,The Fellowship of the Ring,* BOOK I *,Chapter 4 . A Short Cut to Mushrooms ,5842
+4,1,1,5,The Fellowship of the Ring,* BOOK I *,Chapter 5 . A Conspiracy Unmasked ,5125
+5,1,1,6,The Fellowship of the Ring,* BOOK I *,Chapter 6. The Old Forest ,6425
+6,1,1,7,The Fellowship of the Ring,* BOOK I *,Chapter 7 . In the House of Tom Bombadil ,5453
+7,1,1,8,The Fellowship of the Ring,* BOOK I *,Chapter 8 . Fog on the Barrow-Downs ,6633
+8,1,1,9,The Fellowship of the Ring,* BOOK I *,Chapter 9 . At the Sign of ,6120
+9,1,1,10,The Fellowship of the Ring,* BOOK I *,Chapter 10. Strider ,5801
+10,1,1,11,The Fellowship of the Ring,* BOOK I *,Chapter 11. A Knife in the Dark ,9361
+11,1,1,12,The Fellowship of the Ring,* BOOK I *,Chapter 12 . Flight to the Ford ,8720
+12,1,2,1,The Fellowship of the Ring,* BOOK II *,Chapter 1 . Many Meetings ,8986
+13,1,2,2,The Fellowship of the Ring,* BOOK II *,Chapter 2 . The Council of Elrond ,16314
+14,1,2,3,The Fellowship of the Ring,* BOOK II *,Chapter 3 . The Ring Goes South ,10556
+15,1,2,4,The Fellowship of the Ring,* BOOK II *,Chapter 4 . A Journey in the Dark ,11483
+16,1,2,5,The Fellowship of the Ring,* BOOK II *,Chapter 5 . The Bridge of Khazad-dym ,5460
+17,1,2,6,The Fellowship of the Ring,* BOOK II *,Chapter 6 . Lothlurien ,9400
+18,1,2,7,The Fellowship of the Ring,* BOOK II *,Chapter 7 . The Mirror of Galadriel ,6822
+19,1,2,8,The Fellowship of the Ring,* BOOK II *,Chapter 8 . Farewell to Lurien ,6157
+20,1,2,9,The Fellowship of the Ring,* BOOK II *,Chapter 9 . The Great River ,7192
+21,1,2,10,The Fellowship of the Ring,* BOOK II *,Chapter 10. The Breaking of the Fellowship ,6275
+22,2,3,1,The Two Towers,* BOOK III *,Chapter 1 . The Departure of Boromir ,3393
+23,2,3,2,The Two Towers,* BOOK III *,Chapter 2 . The Riders of Rohan ,11091
+24,2,3,3,The Two Towers,* BOOK III *,Chapter 3 . The Uruk-Hai ,7670
+25,2,3,4,The Two Towers,* BOOK III *,Chapter 4 . Treebeard ,12786
+26,2,3,5,The Two Towers,* BOOK III *,Chapter 5 . The White Rider ,8827
+27,2,3,6,The Two Towers,* BOOK III *,Chapter 6 . The King of the Golden Hall ,9251
+28,2,3,7,The Two Towers,* BOOK III *,Chapter 7. Helm's Deep ,7517
+29,2,3,8,The Two Towers,* BOOK III *,Chapter 8 . The Road to Isengard ,7850
+30,2,3,9,The Two Towers,* BOOK III *,Chapter 9 . Flotsam and Jetsam ,7718
+31,2,3,10,The Two Towers,* BOOK III *,Chapter 10. The Voice of Saruman ,5614
+32,2,3,11,The Two Towers,* BOOK III *,Chapter 11. The Palantnr ,6259
+33,2,4,1,The Two Towers,* BOOK IV *,Chapter 1. The Taming of Smjagol ,8178
+34,2,4,2,The Two Towers,* BOOK IV *,Chapter 2 . The Passage of the Marshes ,7277
+35,2,4,3,The Two Towers,* BOOK IV *,Chapter 3 . The Black Gate is Closed ,5825
+36,2,4,4,The Two Towers,* BOOK IV *,Chapter 4 . Of Herbs and Stewed Rabbit ,6856
+37,2,4,5,The Two Towers,* BOOK IV *,Chapter 5 . The Window on the West ,10071
+38,2,4,6,The Two Towers,* BOOK IV *,Chapter 6 . The Forbidden Pool ,5194
+39,2,4,7,The Two Towers,* BOOK IV *,Chapter 7. Journey to the Cross-roads ,4219
+40,2,4,8,The Two Towers,* BOOK IV *,Chapter 8 . The Stairs of Cirith Ungol ,6648
+41,2,4,9,The Two Towers,* BOOK IV *,Chapter 9 . Shelob ' s Lair ,5138
+42,2,4,10,The Two Towers,* BOOK IV *,Chapter 10. The Choices of Master Samwise ,7133
+43,3,5,1,The Return of the King,* BOOK V *,Chapter 1 . Minas Tirith ,13050
+44,3,5,2,The Return of the King,* BOOK V *,Chapter 2. The Passing of the Grey Company ,8535
+45,3,5,3,The Return of the King,* BOOK V *,Chapter 3 . The Muster of Rohan ,6898
+46,3,5,4,The Return of the King,* BOOK V *,Chapter 4 . The Siege of Gondor ,11726
+47,3,5,5,The Return of the King,* BOOK V *,Chapter 5 . The Ride of the Rohirrim ,4303
+48,3,5,6,The Return of the King,* BOOK V *,Chapter 6 . The Battle of the Pelennor ,5186
+49,3,5,7,The Return of the King,* BOOK V *,Chapter 7 . The Pyre of Denethor ,3716
+50,3,5,8,The Return of the King,* BOOK V *,Chapter 8 . The Houses of Healing ,6678
+51,3,5,9,The Return of the King,* BOOK V *,Chapter 9. The Last Debate ,5395
+52,3,5,10,The Return of the King,* BOOK V *,Chapter 10. The Black Gate Opens ,5162
+53,3,6,1,The Return of the King,* BOOK VI *,Chapter 1 . The Tower of Cirith Ungol ,9466
+54,3,6,2,The Return of the King,* BOOK VI *,Chapter 2 . The Land of Shadow ,8248
+55,3,6,3,The Return of the King,* BOOK VI *,Chapter 3 . Mount Doom ,7660
+56,3,6,4,The Return of the King,* BOOK VI *,Chapter 4 . The Field of Cormallen ,4663
+57,3,6,5,The Return of the King,* BOOK VI *,Chapter 5 . The Steward and the King ,7606
+58,3,6,6,The Return of the King,* BOOK VI *,Chapter 6. Many Partings ,7367
+59,3,6,7,The Return of the King,* BOOK VI *,Chapter 7 . Homeward Bound ,3984
+60,3,6,8,The Return of the King,* BOOK VI *,Chapter 8 . The Scouring of the Shire ,10932
+61,3,6,9,The Return of the King,* BOOK VI *,Chapter 9 . The Grey Havens ,4741
