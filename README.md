@@ -3,4 +3,4 @@
 ## Description
 This repository investigates the LOTR trilogy using visual text analytics.
 
-The main paper is included in the [repository](report.pdf).
+The main report can be found [here](report.pdf).
